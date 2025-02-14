@@ -1,6 +1,6 @@
-## Hi Gitworld
+# Hi Gitworld
 
-# About me
+## About me
 
 - long-time music producer and mixing engineer
 - interested in Sci-Fi, AI, astronomy, quantum-physics, philosophy, sociology
