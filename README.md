@@ -1,10 +1,10 @@
 # Hi Gitworld
 
 
-## About me
+I'm Martin and 
 
 
-- long-time music producer and mixing engineer
+- a long-time music producer and mixing engineer
   
 - interested in Sci-Fi, AI, astronomy, quantum-physics, philosophy, sociology, history
 - studying software engineering at Masterschool - atm: Python core basics & HTML
