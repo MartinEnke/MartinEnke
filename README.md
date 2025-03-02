@@ -4,7 +4,7 @@
 ## I'm Martin
 
 
-- a long-time music producer and mixing engineer
+- long-time music producer and mixing engineer
   
 - interested in Sci-Fi, AI, astronomy, quantum-physics, philosophy, sociology, history
   
