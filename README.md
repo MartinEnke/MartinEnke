@@ -1,6 +1,6 @@
 # 👋 Hi Gitworld
 
-## 🧠 I'm Martin
+## I'm Martin
 
 🎛️ Long-time **music producer** and **mixing engineer**  
 🛸 Passionate about **Sci-Fi, AI, astronomy, quantum physics, philosophy, sociology, and history**  
@@ -38,6 +38,8 @@
 - 📖 A personal archive of awe and curiosity
 
 ---
+
+Let’s connect if any of this feels interesting or familiar.
 
 
 
