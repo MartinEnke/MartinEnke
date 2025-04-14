@@ -40,7 +40,7 @@ Focused on **Python**, **Flask**, **SQL**, **HTML**, and **CSS**
 
 ---
 
-Let’s connect if any of this feels interesting or familiar.
+Happy to connect if any of this feels interesting or familiar to you.
 
 
 
