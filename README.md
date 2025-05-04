@@ -32,9 +32,8 @@ Focused on **Python**, **Flask**, **API**, **SQL**, **HTML**, and **CSS**
 
 ## Currently Exploring
 
-- Web development fundamentals  
-- Flask & JSON-based apps 
-- Building "The Quiet Almanac" — a minimalist blog inspired by natural wonder
+- Python & web development fundamentals  
+- Flask, FastAPI, SQLite based applications
 - Audio tools & creative automation  
 
 ---
