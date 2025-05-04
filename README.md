@@ -6,7 +6,7 @@ Long-time **music producer** and **mixing engineer**
 Passionate about **Sci-Fi, AI, astronomy, quantum physics, philosophy, sociology, and history**  
 Currently studying **Software Engineering** at [Masterschool](https://www.masterschool.com)  
 Focused on **Python**, **Flask**, **API**, **SQL**, **HTML**, and **CSS**  
-🎶 Looking forward to combining my love for **music creation** with **software development** — and building tools that inspire
+Looking forward to diving professionally into tech, while also exploring my interest in creating music-related software tools to inspire and innovate.
 
 ---
 
