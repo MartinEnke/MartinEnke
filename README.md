@@ -38,12 +38,10 @@ Looking forward to diving professionally into tech, while also exploring my inte
 
 ---
 
-## ☁️ Dream Projects
+## Projects I'm thinking about
 
 - 🎛️ A DAW-integrated music production assistant  
-- 🧠 A thought tracker that feels like a conversation  
 - 🌌 A story-driven audio experience powered by AI + quantum concepts  
-- 📖 A personal archive of awe and curiosity
 
 ---
 
