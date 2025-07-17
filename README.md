@@ -32,8 +32,8 @@ Looking forward to diving professionally into tech, while also exploring my inte
 
 ## Currently Exploring
 
-- Python & web development fundamentals  
-- Flask, FastAPI, SQLite based applications
+- Python, JS & web development fundamentals  
+- Flask, FastAPI, SQLite/PostgreSQL based applications
 - Audio tools & creative automation  
 
 ---
