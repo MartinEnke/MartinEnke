@@ -1,25 +1,32 @@
-# Martin Enke
+<div align="center">
+  <h1 style="font-weight: 600; margin-bottom: 0.2rem;">Martin Enke</h1>
+  <p style="font-size: 15px; max-width: 720px; line-height: 1.6;">
+    Full-stack & GenAI Application Engineer building LLM-powered, production-ready applications with Python, FastAPI, Flask, React, and Next.js.
+    I focus on practical AI integrations – RAG pipelines, automated workflows, audio analysis tools, and transparent evaluation systems.
+  </p>
 
-Full-stack & GenAI Application Engineer building LLM-powered, production-ready applications with Python, FastAPI, Flask, React, and Next.js. My work centers on practical AI integrations—RAG pipelines, automated workflows, audio analysis tools, and transparent evaluation systems.
-
-With a long background in technical systems and audio engineering, I approach software with structured problem-solving, reliability, and a focus on meaningful user outcomes. I enjoy creating clear systems, thoughtful workflows, and AI-enhanced tools that support real work in both technical and creative domains.
-
-[Portfolio](https://martinenke.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/martin-enke-94484135b/)
+  <p>
+    <a href="https://martinenke.vercel.app/" style="margin-right: 12px;">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/martin-enke-94484135b/" style="margin-left: 12px;">LinkedIn</a>
+  </p>
+</div>
 
 ---
 
 ## About Me
 
-I’m a full-stack engineer with a focus on practical GenAI integrations. Before moving into tech, I spent over 17 years working in audio engineering—designing systems, solving technical problems under pressure, and building structured workflows. That background shaped the way I approach software today: clear architecture, reliable execution, and tools that genuinely help people get work done.
+I’m a full-stack engineer with a focus on GenAI applications – tools that help people work faster, think clearer, or create more.  
+Before moving into software engineering, I worked for over 17 years in audio engineering and technical systems, which shaped a way of working that values structure, reliability, and calm problem-solving under pressure.
 
-I enjoy building applications where AI adds real value, whether through automation, smarter feedback loops, or workflows that feel intuitive rather than complex. Outside of coding, I’m deeply interested in philosophy, astronomy, sociology, and how technology influences creative work.  
-Always open to conversations, new ideas, and opportunities to collaborate.
+I like building systems that feel intentional rather than noisy: clear boundaries, sensible data flows, and AI features that add real value instead of complexity. Outside of code, I’m drawn to philosophy, astronomy, sociology, and how technology shapes creative work and culture.
 
 ---
 
+<section>
+
 ## Technologies
 
-<p>
+<div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
@@ -34,38 +41,59 @@ Always open to conversations, new ideas, and opportunities to collaborate.
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-112233?style=flat" />
   <img src="https://img.shields.io/badge/SentenceTransformers-2B90D9?style=flat" />
-</p>
+</div>
+
+</section>
 
 ---
 
-## What I’m Working On
+## What I’m Focused On
 
-I recently completed a 12-month Backend & AI Engineering program at [Masterschool](https://learn.masterschool.com/).  
-I'm now expanding my frontend experience to get a full view of the entire stack, while exploring how GenAI can meaningfully enhance real products and workflows.
+I recently completed a 12-month Backend & AI Engineering program at  
+<a href="https://learn.masterschool.com/">Masterschool</a> and I’m continuing to deepen my full-stack and AI application skills.
 
-I enjoy being part of the developer community—joining meetups, learning from others, and staying close to new developments in tech.  
-At the end of November, I’ll start a two-month engineering internship at [webeet](https://www.webeet.io/), where I’m excited to contribute to production work and learn from real-world engineering processes.
+At the end of November, I’ll be starting a two-month engineering internship at  
+<a href="https://www.webeet.io/">webeet</a>, contributing to production systems and learning from real-world product teams.
 
-Current areas of exploration include:
-- Full-stack architectures with Python + React/Next.js  
-- RAG systems and efficient retrieval setups  
-- Model context protocol (MCP) patterns  
-- Building modular backend micro-services (BMAD-style thinking)  
-- Audio tooling, Web Audio workflows, and creative AI software  
+Besides that I’m particularly interested in:
+
+- Full-stack architectures with Python, FastAPI, React, and Next.js  
+- RAG systems, retrieval strategies, and evaluation of LLM behavior  
+- Model Context Protocol (MCP) and better ways to structure AI tooling  
+- Modular backend design and BMAD-like build/measure/adjust/deploy loops  
+- Audio tooling, analysis workflows, and creative automation with AI  
+
+
 
 ---
 
 ## Projects I Continue to Develop
 
-My main ongoing projects are pinned below—they’re the ones I actively refine, extend, and learn from.  
-If something here resonates, I’m always open to discussion or collaboration.
+The main projects I actively refine and extend are pinned below. They capture the direction I’m moving in:  
+AI-assisted analysis, fair evaluation, and creative automation.
+
+If any of these align with what you’re building or exploring, I’m always open to conversations and collaboration.
 
 ---
 
 ## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinEnke&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinEnke&layout=compact&hide_border=true&theme=transparent)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MartinEnke&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent"
+    width="49%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinEnke&layout=compact&hide_border=true&theme=transparent"
+    width="49%"
+  />
+
+
+</div>
+
+
+
 
 
