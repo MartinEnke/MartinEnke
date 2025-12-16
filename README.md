@@ -10,7 +10,7 @@ My background includes 17+ years in audio engineering and technical systems, sha
 
 ## About Me
 
-I’m a full-stack engineer focused on GenAI applications — systems that help people work faster, think clearer, or create more freely.  
+I focus on systems that help people work faster, think clearer, or create more freely.  
 
 Before software, I spent over 17 years in audio engineering, which taught me calm problem-solving under pressure, disciplined workflows, and high standards for reliability.  
 
