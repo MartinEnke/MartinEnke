@@ -1,6 +1,6 @@
 # Martin Enke
 
-Full-stack & GenAI Application Engineer building LLM-powered, production-ready applications with Python, FastAPI, Flask, React, and Next.js. I focus on practical AI integrations – RAG pipelines, automated workflows, audio analysis tools, and transparent evaluation systems.
+Backend & AI Engineer / Fullstack Developer building LLM-powered, production-ready applications with Python, FastAPI, Flask, TypeScript, React, and Next.js. I focus on practical AI integrations – RAG pipelines, automated workflows, audio analysis tools, and transparent evaluation systems.
 
 My background includes 17+ years in audio engineering and technical systems, shaping a structured, reliable, and user-focused approach to problem-solving. I enjoy building thoughtful architectures, clear workflows, and AI-enhanced tools that support real work in both technical and creative environments.
 
