@@ -49,10 +49,11 @@ I recently completed a 12-month Backend & AI Engineering program at
 [Masterschool](https://learn.masterschool.com/) and I’m expanding further into full-stack development and applied AI.
 
 ### Current interests
-- LLM-driven full-stack architectures (Python, FastAPI, React, Next.js)  
-- RAG pipelines, retrieval strategies, and evaluation of AI system behavior  
+- LLM-driven full-stack architectures (Python, FastAPI, TypeScript, React, Next.js)  
+- RAG pipelines, retrieval strategies, and evaluation of AI system behavior
+- Tooling, feature extraction, creative automation
+  
 - Model Context Protocol (MCP)  
-- Audio tooling, feature extraction, creative automation  
 - BMAD-style iterative engineering loops (build/measure/adjust/deploy)  
 
 In November I’ll begin a two-month engineering internship at  
